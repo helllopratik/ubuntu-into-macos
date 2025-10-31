@@ -31,9 +31,17 @@ chmod +x <filename>   ..i.e. chmod +x macify-ubuntu.sh
 3. sequoia.sh
    ├─ YT-reference installer script
    ├─ 443 lines, ~15.6 KB
+
+
 4. undo.sh
    ├─ YT-reference un-installer script
    ├─ 3 lines, 133 bytes
+
+
+5. whitesur_wallpaper_daynight_fix.sh ( TO APPLY MAC OS WALLPAPER )
+   ├─ 487 lines of bash code
+   ├─ ~16 KB size
+   ├─ Full error handling
 
 ═════════════════════════════════════════════════════════════════
 INSTALLATION INSTRUCTIONS

@@ -1,0 +1,179 @@
+Starting automated theme installer
+Log: ./sequoia.log
+Detected OS ID: ubuntu
+Theme URL: https://github.com/vinceliuice/WhiteSur-gtk-theme/archive/refs/heads/master.zip
+Icon URL: https://github.com/vinceliuice/Tela-icon-theme/archive/refs/heads/master.zip
+No cursor URL provided
+Requesting sudo (may ask for password)...
+sudo: Authentication failed, try again.
+sudo: Authentication failed, try again.
+sudo-rs: Maximum 3 incorrect authentication attempts
+Starting automated theme installer
+Log: ./sequoia.log
+Detected OS ID: ubuntu
+Theme URL: https://github.com/vinceliuice/WhiteSur-gtk-theme/archive/refs/heads/master.zip
+Icon URL: https://github.com/vinceliuice/Tela-icon-theme/archive/refs/heads/master.zip
+No cursor URL provided
+Requesting sudo (may ask for password)...
+sudo: Authentication failed, try again.
+Installing required packages...
+Get:1 http://security.ubuntu.com/ubuntu questing-security InRelease [136 kB]
+Hit:2 http://in.archive.ubuntu.com/ubuntu questing InRelease
+Get:3 http://in.archive.ubuntu.com/ubuntu questing-updates InRelease [136 kB]
+Get:4 http://security.ubuntu.com/ubuntu questing-security/main amd64 Packages [53.8 kB]
+Get:5 http://security.ubuntu.com/ubuntu questing-security/main Translation-en [16.0 kB]
+Get:6 http://security.ubuntu.com/ubuntu questing-security/main amd64 Components [208 B]
+Get:7 http://security.ubuntu.com/ubuntu questing-security/main amd64 c-n-f Metadata [1,096 B]
+Get:8 http://security.ubuntu.com/ubuntu questing-security/restricted amd64 Components [212 B]
+Get:9 http://security.ubuntu.com/ubuntu questing-security/universe amd64 Components [208 B]
+Get:10 http://security.ubuntu.com/ubuntu questing-security/universe amd64 c-n-f Metadata [848 B]
+Get:11 http://security.ubuntu.com/ubuntu questing-security/multiverse amd64 Components [212 B]
+Get:12 http://in.archive.ubuntu.com/ubuntu questing-backports InRelease [133 kB]
+Get:13 http://in.archive.ubuntu.com/ubuntu questing-updates/main amd64 Packages [58.6 kB]
+Get:14 http://in.archive.ubuntu.com/ubuntu questing-updates/main Translation-en [18.4 kB]
+Get:15 http://in.archive.ubuntu.com/ubuntu questing-updates/main amd64 Components [208 B]
+Get:16 http://in.archive.ubuntu.com/ubuntu questing-updates/main amd64 c-n-f Metadata [1,448 B]
+Get:17 http://in.archive.ubuntu.com/ubuntu questing-updates/restricted amd64 Components [212 B]
+Get:18 http://in.archive.ubuntu.com/ubuntu questing-updates/universe amd64 Packages [32.0 kB]
+Get:19 http://in.archive.ubuntu.com/ubuntu questing-updates/universe Translation-en [12.7 kB]
+Get:20 http://in.archive.ubuntu.com/ubuntu questing-updates/universe amd64 Components [212 B]
+Get:21 http://in.archive.ubuntu.com/ubuntu questing-updates/universe amd64 c-n-f Metadata [844 B]
+Get:22 http://in.archive.ubuntu.com/ubuntu questing-updates/multiverse amd64 Components [212 B]
+Get:23 http://in.archive.ubuntu.com/ubuntu questing-backports/main amd64 Components [212 B]
+Get:24 http://in.archive.ubuntu.com/ubuntu questing-backports/restricted amd64 Components [216 B]
+Get:25 http://in.archive.ubuntu.com/ubuntu questing-backports/universe amd64 Components [216 B]
+Get:26 http://in.archive.ubuntu.com/ubuntu questing-backports/multiverse amd64 Components [216 B]
+Fetched 602 kB in 4s (168 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+git is already the newest version (1:2.51.0-1ubuntu1).
+curl is already the newest version (8.14.1-2ubuntu1).
+wget is already the newest version (1.25.0-2ubuntu3).
+unzip is already the newest version (6.0-28ubuntu7).
+gnome-tweaks is already the newest version (46.1-1).
+dconf-cli is already the newest version (0.40.0-5willsync1).
+gnome-shell-extensions is already the newest version (49.0-1).
+ca-certificates is already the newest version (20250419).
+Solving dependencies...
+The following additional packages will be installed:
+  7zip
+Suggested packages:
+  7zip-standalone 7zip-rar
+The following NEW packages will be installed:
+  7zip p7zip-full
+0 upgraded, 2 newly installed, 0 to remove and 1 not upgraded.
+Need to get 2,122 kB of archives.
+After this operation, 7,268 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu questing/universe amd64 7zip amd64 25.01+dfsg-2 [2,119 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu questing/universe amd64 p7zip-full all 16.02+transitional.1 [2,500 B]
+Fetched 2,122 kB in 2s (1,091 kB/s)
+Selecting previously unselected package 7zip.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 223368 files and directories currently installed.)
+Preparing to unpack .../7zip_25.01+dfsg-2_amd64.deb ...
+Unpacking 7zip (25.01+dfsg-2) ...
+Selecting previously unselected package p7zip-full.
+Preparing to unpack .../p7zip-full_16.02+transitional.1_all.deb ...
+Unpacking p7zip-full (16.02+transitional.1) ...
+Setting up 7zip (25.01+dfsg-2) ...
+Setting up p7zip-full (16.02+transitional.1) ...
+Processing triggers for man-db (2.13.1-1) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+gnome-shell-extensions is already the newest version (49.0-1).
+gnome-shell-extensions-common is already the newest version (49.0-1).
+gnome-shell-extensions-common set to manually installed.
+Solving dependencies...
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+Using temp dir: /tmp/auto-theme-T8ty
+Backing up current GNOME theme settings to /home/hellopratik/.config/theme-backup-20251031_141359.json
+Backup saved.
+Installing GTK theme from https://github.com/vinceliuice/WhiteSur-gtk-theme/archive/refs/heads/master.zip
+./sequoia.sh: line 131: $1: unbound variable
+Cleaning up...
+=== sequoia.sh starting at 2025-10-31T08:47:49Z ===
+Theme URL: https://github.com/vinceliuice/WhiteSur-gtk-theme/archive/refs/heads/master.zip
+Icon URL : https://github.com/vinceliuice/Tela-icon-theme/archive/refs/heads/master.zip
+Cursor URL: <none>
+Requesting sudo (may ask for password)...
+Requesting sudo (may ask for password)...
+Installing required packages (apt)...
+Hit:1 http://security.ubuntu.com/ubuntu questing-security InRelease
+Hit:2 http://in.archive.ubuntu.com/ubuntu questing InRelease
+Hit:3 http://in.archive.ubuntu.com/ubuntu questing-updates InRelease
+Hit:4 http://in.archive.ubuntu.com/ubuntu questing-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+git is already the newest version (1:2.51.0-1ubuntu1).
+curl is already the newest version (8.14.1-2ubuntu1).
+wget is already the newest version (1.25.0-2ubuntu3).
+unzip is already the newest version (6.0-28ubuntu7).
+p7zip-full is already the newest version (16.02+transitional.1).
+gnupg is already the newest version (2.4.8-2ubuntu2).
+gnupg set to manually installed.
+ca-certificates is already the newest version (20250419).
+gnome-tweaks is already the newest version (46.1-1).
+dconf-cli is already the newest version (0.40.0-5willsync1).
+gnome-shell-extensions is already the newest version (49.0-1).
+Solving dependencies...
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+Backing up current GNOME theme settings to /home/hellopratik/.config/theme-backup-20251031_141752.json
+Backing up current GNOME theme settings to /home/hellopratik/.config/theme-backup-20251031_141752.json
+Installing GTK theme from https://github.com/vinceliuice/WhiteSur-gtk-theme/archive/refs/heads/master.zip
+Installing GTK theme from https://github.com/vinceliuice/WhiteSur-gtk-theme/archive/refs/heads/master.zip
+Downloading: https://github.com/vinceliuice/WhiteSur-gtk-theme/archive/refs/heads/master.zip
+Downloading: https://github.com/vinceliuice/WhiteSur-gtk-theme/archive/refs/heads/master.zip
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 2157k    0 2157k    0     0  1470k      0 --:--:--  0:00:01 --:--:-- 2153k100 5906k    0 5906k    0     0  2981k      0 --:--:--  0:00:01 --:--:-- 3898k
+No obvious theme/icon directories found in archive. Copying all content into /home/hellopratik/.themes
+No obvious theme/icon directories found in archive. Copying all content into /home/hellopratik/.themes
+Installing icon theme from https://github.com/vinceliuice/Tela-icon-theme/archive/refs/heads/master.zip
+Installing icon theme from https://github.com/vinceliuice/Tela-icon-theme/archive/refs/heads/master.zip
+Downloading: https://github.com/vinceliuice/Tela-icon-theme/archive/refs/heads/master.zip
+Downloading: https://github.com/vinceliuice/Tela-icon-theme/archive/refs/heads/master.zip
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100  580k    0  580k    0     0   482k      0 --:--:--  0:00:01 --:--:--  482k100 7396k    0 7396k    0     0  3353k      0 --:--:--  0:00:02 --:--:-- 6803k100 9946k    0 9946k    0     0  3112k      0 --:--:--  0:00:03 --:--:-- 4699k100 11.7M    0 11.7M    0     0  3064k      0 --:--:--  0:00:03 --:--:-- 4213k
+Installing nested src -> /home/hellopratik/.icons
+Installing nested src -> /home/hellopratik/.icons
+Detected GTK theme candidate: WhiteSur-gtk-theme-master
+Detected Icon theme candidate: WhiteSur-dark
+Applying theme settings via gsettings...
+Applying theme settings via gsettings...
+Setting gtk theme -> WhiteSur-gtk-theme-master
+Setting gtk theme -> WhiteSur-gtk-theme-master
+Setting icon theme -> WhiteSur-dark
+Setting icon theme -> WhiteSur-dark
+Setting cursor theme -> WhiteSur-dark
+Setting cursor theme -> WhiteSur-dark
+Setting GNOME shell theme -> WhiteSur-gtk-theme-master (requires user-theme extension)
+Setting GNOME shell theme -> WhiteSur-gtk-theme-master (requires user-theme extension)
+Attempting to reload GNOME Shell (best-effort)...
+Attempting to reload GNOME Shell (best-effort)...
+
+=== Summary ===
+=== Summary ===
+GTK candidate: WhiteSur-gtk-theme-master
+GTK candidate: WhiteSur-gtk-theme-master
+Icon candidate: WhiteSur-dark
+Icon candidate: WhiteSur-dark
+Cursor candidate: WhiteSur-dark
+Cursor candidate: WhiteSur-dark
+Log file: ./sequoia.log
+Log file: ./sequoia.log
+
+If the shell theme did not take effect, try logging out and back in, or rebooting.
+If the shell theme did not take effect, try logging out and back in, or rebooting.
+To restore settings: look at the backup JSON created under ~/.config/ (theme-backup-YYYYMMDD_HHMMSS.json)
+To restore settings: look at the backup JSON created under ~/.config/ (theme-backup-YYYYMMDD_HHMMSS.json)
+Cleaning up temp files and background processes...
+Cleaning up temp files and background processes...
+Exiting.
+Exiting.

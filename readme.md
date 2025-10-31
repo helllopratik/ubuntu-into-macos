@@ -575,5 +575,6 @@ Online resources:
 ├─ Icons: github.com/USBA/Cupertino-Ventura-iCons
 ├─ Sounds: github.com/vinceliuice/WhiteSur-sound
 
+Message: Download 'Coverflow Alt-Tab' from extension manager 
 
 ═════════════════════════════════════════════════════════════════

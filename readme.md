@@ -1,4 +1,4 @@
-Run this code before running any files 
+Run this code before executing any files 
 chmod +x <filename>   ..i.e. chmod +x macify-ubuntu.sh
 ./<filename>          ..i.e. ./macify-ubuntu.sh 
 
@@ -6,9 +6,9 @@ chmod +x <filename>   ..i.e. chmod +x macify-ubuntu.sh
 
 ╔═════════════════════════════════════════════════════════════════╗
 ║                                                                 ║
-║         COMPLETE CODE IMPLEMENTATION GUIDE v2.5+               ║
+║         COMPLETE CODE IMPLEMENTATION GUIDE v2.5+                ║
 ║                                                                 ║
-║    macOS Sequoia Theme Installer - Full Source Code            ║
+║      macOS Sequoia Theme Installer - Full Source Code           ║
 ║                                                                 ║
 ╚═════════════════════════════════════════════════════════════════╝
 
@@ -42,6 +42,12 @@ chmod +x <filename>   ..i.e. chmod +x macify-ubuntu.sh
    ├─ 487 lines of bash code
    ├─ ~16 KB size
    ├─ Full error handling
+
+
+6. macos_window_buttons_fix.sh (TO FIX WINDOW BUTTON STYLE)
+   ├─ 58 lines of bash code
+   ├─ ~2.4 KB size
+   ├─ Full error handling  
 
 ═════════════════════════════════════════════════════════════════
 INSTALLATION INSTRUCTIONS

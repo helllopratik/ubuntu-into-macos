@@ -4,13 +4,11 @@ chmod +x <filename>   ..i.e. chmod +x macify-ubuntu.sh
 
 
 
-╔═════════════════════════════════════════════════════════════════╗
-║                                                                 ║
 ║         COMPLETE CODE IMPLEMENTATION GUIDE v2.5+                ║
 ║                                                                 ║
 ║      macOS Sequoia Theme Installer - Full Source Code           ║
-║                                                                 ║
-╚═════════════════════════════════════════════════════════════════╝
+║                                                                 
+╚═════════════════════════════════════════════════════════════
 
 
 📄 FILES PROVIDED
